@@ -8,7 +8,7 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-styled-components-babel&project-name=with-styled-components-babel&repository-name=with-styled-components-babel)
 ## How to use
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+
 
 ```bash
 npx create-next-app . -e https://github.com/LordGhapa/nextjs-exemple-ts-styled-components
