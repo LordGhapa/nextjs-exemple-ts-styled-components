@@ -15,11 +15,11 @@ export default function Home({ todos }) {
         <div>Loading...</div>
       ) : (
         todos.map((todo) => (
-          <p key={todo.id}>
+          <div key={todo.id}>
             <p>
               {todo.id}:{todo.title}
             </p>
-          </p>
+          </div>
         ))
       )}
     </div>
